@@ -1,6 +1,7 @@
 # Proyecto Full Stack
 
 Este es un proyecto full stack que consta de un backend en Node.js y un frontend en React con Vite.
+![image](https://github.com/user-attachments/assets/dcc28d1f-6130-4e7a-8b22-7e67c6085737)
 
 ## 📂 Estructura del Proyecto
 
